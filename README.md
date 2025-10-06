@@ -1,2 +1,2 @@
-# eCommerce-Resale-Shopping-Assistant
+# Arbitrage Assistant
 LangGraph Agent for identifying the most profitable resellable items online
